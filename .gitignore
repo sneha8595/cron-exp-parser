@@ -1,2 +1,5 @@
 script_std_2.py
 script_std.py
+__pycache__/
+.vscode/
+.DS_Store
